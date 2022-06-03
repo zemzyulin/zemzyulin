@@ -6,7 +6,7 @@ I've already completed Harvard's CS50x. Currently I'm learning __JavaScript__ an
 Checkout my projects @ https://github.com/zemzyulin?tab=repositories
 
 
-<br><br>
+<br>
 📫 How to reach me:
 - yehor.zemzyulin@gmail.com
 - https://www.linkedin.com/in/yehor-zemzyulin-07802b85/
