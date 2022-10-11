@@ -1,14 +1,17 @@
-Hi, my name is Yehor (@zemzyulin).
+Hi, my name is Yehor.
  
-I’m a career switcher with solid background in finance and entrepreneurship. Looking forward to becoming a software developer.<br><br>
-I've already completed Harvard's CS50x. Currently I'm learning __JavaScript__ and __Node.js__ via Codecademy Back-End Engineer Career Path (https://www.codecademy.com/learn/paths/back-end-engineer-career-path).  
+I’m a career switcher with solid background in finance and entrepreneurship. Looking forward to becoming a software developer (NodeJS).<br><br>
+I've already completed Harvard's CS50x and Codecademy’s Back-End Engeneer Career Path (https://www.codecademy.com/learn/paths/back-end-engineer-career-path).  
 
-Checkout my projects @ https://github.com/zemzyulin?tab=repositories
+All my public independent and educational projects are here @ https://github.com/zemzyulin?tab=repositories  
+And I'm already working on a new one 🚀
 
 
 <br>
-📫 How to reach me:
-- yehor.zemzyulin@gmail.com
+📫 Interested in cooperation or just a friendly chat - let me know via:  
+
+- yehor.zemzyulin@gmail.com  
+
 - https://www.linkedin.com/in/yehor-zemzyulin-07802b85/
 
 <!---
