@@ -12,7 +12,7 @@ And I'm already working on a new one 🚀
 
 - yehor.zemzyulin@gmail.com  
 
-- https://www.linkedin.com/in/yehor-zemzyulin-07802b85/
+- https://www.linkedin.com/in/zemzyulin/
 
 <!---
 zemzyulin/zemzyulin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
