@@ -1,12 +1,11 @@
 Hi, my name is Yehor.
 
-I’m a software engineer @HRForecast and a recent career switcher with solid background in finance and entrepreneurship. Love to code and always looking for new challenges 🚀
+I’m a software engineer @HRForecast with particular experience in NodeJS, Postgres and AWS. Love to code, work with new technologies and people, as well as to constantly challenge myself 🚀
 
 <br>
 📫 Interested in cooperation or just a friendly chat - let me know via:  
 
 - yehor.zemzyulin@gmail.com  
-
 - https://www.linkedin.com/in/zemzyulin/
 
 <!---
